@@ -13,6 +13,4 @@ Buon lavoro!
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-https://booleancareers.slack.com/files/U02DZTS8S22/F07V5KFF9T9/viaggio-londra.jpg
+![alt text](Viaggio-Londra.jpg)
